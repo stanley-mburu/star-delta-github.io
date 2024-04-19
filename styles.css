@@ -1,0 +1,42 @@
+/* CSS Styles for Star-Delta Motor Starter webpage */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #8B0000;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.summary {
+    margin-bottom: 40px;
+}
+
+.diagrams img {
+    display: block;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #8B0000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
